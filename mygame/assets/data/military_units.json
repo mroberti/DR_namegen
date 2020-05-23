@@ -1,0 +1,7 @@
+{
+   "s":"Regent's ,Chancellor's ,Star King's ,Governor's ,Kaiser's ,General's ,King's ,Queen's ,Guild's ,Emperor's ,Temple's",
+   "m":"North ,East ,South ,West ,Last Resort ,Old ,Sacred ,Crimson ,Grey ,Green ,Orange ,Own ,Double X ,Drop-short ,First and Last ,Holy ,Elegant ,Excellers ,Supreme ,Savage ,Dirty ,Lofty ,Fancy ,Invincible ,Jolly ,Dandy ,Concealed ,Celestials",
+   "A":"Grenadiers ,Regiment ,Battalion ,Horsemen ,Carabiniers ,Light Horse ,Rejects ,Guards ,Fusiliers ,Regiment ,Hussars ,Dragoons ,Shock Troops ,Iron Strike ,Cavalliers ,Deathbringers ,Blazing Fury ,Pikemen ,Defenders ,Blackwatch ,Executioners",
+   "B":"`",
+   "rules":"%80$s_$m_$A,%20$s_$m_$B_$A"
+}

@@ -1,0 +1,6 @@
+{
+   "s":"Applied ,Best ,Synthetic ,Industrial ,Futura ,Destiny ,Wellness ,Military ,Defense ",
+   "m":"Electronics ,Genomics ,Genetics ,Nanotech ,Robotics ,Cognitive ,Neural ,Infinity ,Psi ",
+   "e":"Corporation ,Compact ,Conglomerate ,Company ,Incorporated ,Synthetics ,Synthetica ,Genoma ,Technica ,Armor ,Arms ,Weapons ",
+   "rules": " $s_$m,%10$s_$s_$e"
+}
