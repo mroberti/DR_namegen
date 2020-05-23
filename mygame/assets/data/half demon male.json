@@ -1,0 +1,6 @@
+
+{
+    "A":"Aag,Karg,Ulthu,Alur,Khark,Urz,Arak,Krau,Uti,Az,Kriv,Uznid,Azik,Kuaz,Virn,Bral,Kudu,Vlaaj,Braz,Luri,Vlag,Bruh,Mulk,Vlash,Draan,Nau,Vluk,Drulg,Nid,Vluzak,Guz,Ninj,Vraz,Haug,Nul,Vulk,Idru,Nym,Xau,Jhaal,Ranag,Xid,Jid,Rilthu,Xul,Jiu,Ruk,Xuraj,Jur,Rulk,Zauv,Jurg,Ruz,Zug,Jurz,Saag,Zuldu,Kaaz,Skaur,Zuv",
+    "B":"arag,bru,drul,inu,lank,lun,lurr,lurug,nal,rul,ruzuk,salk,sul,suruk,ull,undak,uvik,xulg,zu,zuk",
+    "rules":"$A_$B"
+}

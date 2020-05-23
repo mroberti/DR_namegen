@@ -1,0 +1,8 @@
+
+{
+    "A":"Agh,Alg,Barg,Chag,Ghad,Glab,Grag,Hrag,Kag,Kwarg,Mag,Nalb,Sag,Tharg,Brelg,Dergh,Dregh,Drelb,Felg,Heg,Kleg,Igg,Rigg,Blog,Drog,Grolb,Kolg,Krolg,Lolg,Mog,Morg,Nog,Obb,Ogg,Olb,Rogg,Strog,Thog,Trob,Tzolg,Vogt,Bub,Bulg,Druj,Durg,Frub,Fulg,Gub,Hrud,Hurg,Jub,Julb,Nud,Nug,Nulb,Rung,Shub,Stug,Sug,Szug,Trulg,Ulb,Urb,Vub,Vulb,Xub,Zub,Zug,Zugt,Aab,Aag,Glaag,Haag,Naag,Raag,Boaj,Moab,Uag,Leegh,Yeb,Yeeg,Aig,Yibb,Iog,Droog,Nyog,Aug,Baug,Daurg,Draug,Gaub,Laug,Maug,Naug,Raug,Saug,Thaug,Iub,Iug,Ruug",
+    "B":"agh,alg,barg,chag,ghad,glab,grag,hrag,kag,kwarg,mag,nalb,sag,tharg,brelg,dergh,dregh,drelb,felg,heg,kleg,igg,rigg,blog,drog,grolb,kolg,krolg,lolg,mog,morg,nog,obb,ogg,olb,rogg,strog,thog,trob,tzolg,vogt,bub,bulg,druj,durg,frub,fulg,gub,hrud,hurg,jub,julb,nud,nug,nulb,rung,shub,stug,sug,szug,trulg,ulb,urb,vub,vulb,xub,zub,zug,zugt,aab,aag,glaag,haag,naag,raag,boaj,moab,uag,leegh,yeb,yeeg,aig,yibb,iog,droog,nyog,aug,baug,daurg,draug,gaub,laug,maug,naug,raug,saug,thaug,iub,iug,ruug",
+    "v":"u,u,u,o,o,i,i,a,a,e",
+    "c":"z,y,v,r,l,j",
+    "rules":"$A_$v_$c_$B,$A_$c_$v_$B,%25$A_$v_$c_$B,%25$A_$c_$v_$B"
+}

@@ -1,0 +1,4 @@
+{
+    "A":"chirr,chirrk,hrikk,kikeek,kirrik,kizz,kree,kreex,krekk,krich,kutch,kzirr,rikik,rritz,rrizzch,shikirr,skeetz,skirr,skisk,skrak,skrix,skut,strid,strix,tchik,thrih,thrix,tzirch,tzuk,tzurr",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

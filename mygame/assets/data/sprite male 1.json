@@ -1,0 +1,6 @@
+
+{
+    "A":"Dex,Gliss,Tink,Flax,Goss,Tiss,Flim,Hex,Trill,Fliss,Liss,Trist,Flix,Min,Twill,Foss,Misk,Twiss,Frisk,Raff,Twisp,Friss,Ress,Twix,Gess,Riff,Weft,Glan,Rill,Wesk,Glax,Saff,Winn,Glim,Shim,Wisp",
+    "B":"aldo,allo,amo,ando,aroll,aron,asto,endo,eroll,eron,esto,ondo",
+    "rules":"$A_$B"
+}

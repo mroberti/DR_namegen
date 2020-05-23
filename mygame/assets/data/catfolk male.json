@@ -1,0 +1,7 @@
+
+{
+    "P":"Car,Dre,Fer,Ger,Nyk,Rou,Zith",
+    "A":"Lirr,Liss,Lith,Lyau,Mau,Meer,Mew,Miah,Miau,Mihr,Mirr,Miu,Purrh,Saf,Sash,Serr,Sfee,Shah,Sharr,Shau,Shee,Sheer,Shim,Shurr,Siyth,Slif,Swish,Syau",
+    "p":"ruth,wan,us,ran,tan,gar,embe,lirr,liss,lith,lyau,mau,meer,mew,miah,miau,mihr,mirr,miu,purrh,saf,sash,serr,sfee,shah,sharr,shau,shee,sheer,shim,shurr,siyth,slif,swish,syau",
+    "rules":"$P_$p,$A_$p"
+}

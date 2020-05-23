@@ -1,0 +1,4 @@
+{
+    "A":"blak,blik,bluk,dikuk,karch,klakk,klatt,klik,kluk,klutt,kack,krak,krik,krub,kruk,krunk,kulch,kurch,kwik,kwuk,schrab,schrib,schruk,tchelk,tchub,tchuk,tchulk,tchunk,tchutt,tunch",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

@@ -1,0 +1,5 @@
+{
+	"A":"Bal,Durn,Na,Bord,From,Nor,Born,Fror,Nord,Brim,Fuld,Orm,Brod,Fund,Skand,Brokk,Gim,Skond,Brom,Glo,Storn,Bru,Gond,Strom,Bur,Gord,Stur,Burl,Gorm,Sturl,Da,Grad,Sund,Dal,Grim,Thor,Dolg,Grod,Thorn,Dor,Grom,Thra,Dorm,Guld,Thro,Dral,Gund,Throl,Drim,Gur,Thror,Drom,Hord,Thru,Dur,Horn,Thrur,Durm,Hra,Thund"	,
+	"B":"bis,da,dis,dis,dis,dis,ga,hild,is,is,lif,lind,lis,na,nis,ris,rith,run,run,vis",
+	"rules":"$A_$B"
+}

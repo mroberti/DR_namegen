@@ -1,0 +1,4 @@
+{
+    "A":"boag,bolg,brolg,gaarlb,goag,goalb,golg,goln,graal,roalb,roalg,rolg,rolv,slaag,slaan,slaar,slaav,sloag,slorg,slorv,soag,vaarg,vlaar,vlaaz,voag,volg,vraag,vraal,vrog,vrol",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

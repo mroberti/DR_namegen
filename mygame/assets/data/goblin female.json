@@ -1,0 +1,7 @@
+
+{
+    "A":"Ach,Adz,Ak,Ark,Az,Balg,Bilg,Blid,Blig,Blok,Blot,Bolg,Boor,Bot,Bug,Burk,Chu,Dokh,Drik,Driz,Drub,Duf,Flug,Gaw,Gad,Gag,Gah,Gak,Gar,Gat,Gaz,Ghag,Ghak,Ghor,Git,Glag,Glak,Glat,Glig,Gliz,Glok,Gnat,Gog,Grak,Grat,Guk,Hig,Irk,Kak,Kav,Khad,Krig,Lag,Lak,Lig,Likk,Loz,Luk,Lun,Mak,Maz,Miz,Mog,Mub,Mur,Nad,Nag,Naz,Nig,Nikk,Nogg,Nok,Nukk,Nur,Pog,Rag,Rak,Rat,Rok,Ronk,Rot,Shrig,Shuk,Skrag,Skug,Slai,Slig,Slog,Sna,Snag,Snark,Snat,Snig,Snik,Snit,Sog,Spik,Stogg,Tog,Unk,Urf,Vark,Vog,Yad,Yagg,Yak,Yark,Yarp,Yig,Yip,Zat,Zib,Zit,Ziz,Zob,Zord",
+    "B":"ach,adz,ak,ark,awg,az,balg,bilg,blid,blig,blok,blot,bolg,bot,bug,burk,bus,dokh,drik,driz,duf,ffy,flug,g,ga,gad,gag,gah,gak,gar,gat,gaz,ghag,ghak,git,glag,glak,glat,glig,gliz,glok,gnat,gog,grak,grat,gub,guk,hig,irk,kak,khad,krig,lag,lak,lig,likk,loz,luk,mak,maz,miz,mub,murch,nad,nag,naz,nig,nikk,nogg,nok,nukk,og,plus,rag,rak,rat,rkus,rok,shrig,shuk,skrag,skug,slai,slig,slog,sna,snag,snark,snat,snig,snik,snit,sog,spik,stogg,thus,tog,un,urf,us,vark,yad,yagg,yak,yark,yarp,yig,yip,zat,zib,zit,ziz",
+    "p":"ah,ay,e,ee,gah,ghy,y,ya",
+    "rules":"$A_$p,%30$A_$B_$p"
+}

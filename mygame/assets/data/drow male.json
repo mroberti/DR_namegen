@@ -1,0 +1,8 @@
+
+{
+    "A":"Ar,Bal,Ber,Bur,Char,Chor,Col,De,Div,Dol,Dor,Dri,Dro,Drom,Dul,Dur,Eil,Ek,En,Er,Fi,Gon,Gul,Im,Ins,Ist,Jeg,Jend,Jer,Jys,Ka,Kil,Lil,Lul,Mab,Mar,Maz,Mer,Mez,Mi,Mir,Mol,Mor,Nor,Noth,Ol,Phar,Sy,Z",
+    "B":"ca,el,myr,ne,nel,nil,no,nox,nyl,rel,rha,ru,ry,sab,sin,sul,sus,tel,tul,ver,vic,vil,vir,vril,yas,olg,on,or,ov,org,oth,pan,pel,por,ren,ry,sek,sol,sun,ten,thal,tor,torm,vek,vol,vor,yel,yol,zt",
+    "C":"dyl,di,el,en,er,id,il,is,lav,len,lev,lin,liv,mo,pel,pir,ra,ral,ril,rin,sin,syl",
+    "D":"ald,eld,er,id,in,ild,ird,lim,naz,nid,nil,nim,red,rid,rim,riv,ul,uld,urn,vid,vim,vir,viz",
+    "rules":"$A_$80B_$20C_$D,$A_$80B_$20C_$D"
+}

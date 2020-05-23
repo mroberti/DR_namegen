@@ -1,0 +1,4 @@
+{
+    "A":"lool,mool,ooz,silv,slee,sleem,sleez,sliv,sliz,sloov,smee,sneel,snilv,snool,sool,szee,szoo,veez,vlee,vliz,vloo,vool,voolm,vooz,zeev,zilv,zliv,zloo,zool,zoov",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

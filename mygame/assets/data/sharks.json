@@ -1,0 +1,4 @@
+{
+	"A":"arllg,aurch,ferllch,frach,fragh,frauch,frrechk,grach,grallch,grech,grellch,gruch,grullch,kaurch,rauch,rechk,shkurr,shralk,shregk,shrrukk",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

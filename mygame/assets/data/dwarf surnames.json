@@ -1,0 +1,9 @@
+{
+	"P":"Boulder,Bronze,Coal,Copper,Gem,Gold,Granite,Hammer,Iron,Marble,Metal,Mithril,Rock,Steel,Stone,Thunder",
+	"p":"bender,breaker,carver,club,crusher,cutter,digger,fist,foot,forger,heart,miner,smasher,smith",
+	"s": "Bear,Boar,Dragon,Giant,Gnome,Goblin,Elf,Ettin,Foe,Giant,Kobold,Ogre,Orc,Spider,Troll,Wolf,Wyvern",
+	"e": "bane,basher,-Battler,-Beheader,boxer,burner,butcher,choker,cleaver,crusher,cutter,doom,eater,-Executioner,-Fighter,-Garrotter,-Grappler,gutter,hammer,kicker,killer,mauler,masher,puncher,ripper,slasher,slayer,slicer,smasher,-Strangler,striker,-Wrestler",
+	"v":"Black,Blood,Bronze,Cold,Fair,Fiery,Fire,Firm,Golden,Grey,Hard,Ice,Iron,Mithril,Moon,Noble,Oak,Onyx,Red,Silver,Steel,Stone,Strong,Thunder,White",
+	"c":"axe,beard,belly,blade,brand,chest,cheek,finger,fist,foot,hair,hammer,hand,head,heart,hood,mace,pick,pike,shield,spear,spike,sword",
+	"rules":"$P_$p,$s_$e,$v_$c"
+}

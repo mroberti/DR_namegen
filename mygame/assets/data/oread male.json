@@ -1,0 +1,5 @@
+{
+	"s":"Ah,An,Ar,Bo,Bon,Dan,De,Gan,Gar,Gun,I,Ir,Ja,Jey,Jon,Jun,Lal,Lol,Lor,Lun,Mal,Men,Mon,Na,Nan,Nud,Nul,Ny,O,Ol,On,Por,Pyl,Ro,Run,Ry,Sar,Se,Si,Sol,Son,Suh,Sul,To,Ty,Ur,Vom,Vy,Yl",
+	"e":"an,da,dam,dan,dar,dat,dil,dol,dom,dom,don,dos,du,dum,dum,dum,dur,dus,fam,fo,ha,hat,het,hom,hun,hut,lah,len,lod,lom,lu,lun,lur,lus,mal,mem,mim,mom,mon,mon,mor,mu,mum,mum,mum,mus,mym,nan,nat,nom,nut,rer,ret,rin,rmu,rud,run,ta,tam,tan,tar,thon,thot,thu,thun,tor,tys,va,vet,vhar,vhat,vir,voh,vot,vror,vros,vu,vum,vum,vum,vy",
+	"rules":"$s_$e_$50e"
+}

@@ -1,0 +1,6 @@
+
+{
+    "A":"Ag,Aug,Bad,Bag,Bakh,Bash,Baz,Blag,Brag,Brog,Bruz,Dag,Dakk,Darg,Dob,Dog,Drab,Dug,Dur,Gash,Ghaz,Glakh,Glaz,Glob,Glol,Gluf,Glur,Gnarl,Gnash,Gnub,Gob,Gokh,Gol,Golk,Gor,Grakh,Grash,Grath,Graz,Grot,Grub,Grud,Gud,Gut,Hag,Hakk,Hrat,Hrog,Hrug,Khag,Khar,Krag,Krud,Lakh,Lash,Lob,Lub,Lud,Luf,Luk,Molk,Muk,Muz,Nar,Ogg,Olg,Rag,Rash,Rogg,Rorg,Rot,Rud,Ruft,Rug,Rut,Shad,Shag,Shak,Shaz,Shog,Skar,Skulg,Slur,Snar,Snorl,Snub,Snurr,Sod,Stulg,Thak,Trog,Ug,Umsh,Ung,Uth,Yakh,Yash,Yob,Zahk,Zog",
+    "B":"ag,aug,bad,bag,bakh,bash,baz,blag,brag,brog,bruz,dag,dakk,darg,dob,dog,drab,dug,dur,gash,ghaz,glakh,glaz,glob,glol,gluf,glur,gnarl,gnash,gnub,gob,gokh,gol,golk,gor,grakh,grash,grath,graz,grot,grub,grud,gud,gut,hag,hakk,hrat,hrog,hrug,khag,khar,krag,krud,lakh,lash,lob,lub,lud,luf,luk,molk,muk,muz,nar,ogg,olg,rag,rash,rogg,rorg,rot,rud,ruft,rug,rut,shad,shag,shak,shaz,shog,skar,skulg,slur,snar,snorl,snub,snurr,sod,stulg,thak,trog,ug,umsh,ung,uth,yakh,yash,yob,zahk,zog",
+    "rules":"$A_$B_$10B"
+}

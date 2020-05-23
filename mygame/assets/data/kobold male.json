@@ -1,0 +1,6 @@
+
+{
+    "s":"Ak,Crox,Cru,Dhez,Dhel,Dhi,Dra,Dri,Drox,Drun,Ea,Gak,Ge,Get,Gha,Ghe,Gred,I,Il,Ip,Ja,Je,Jo,Kib,Kog,Mak,Mol,Olp,Or,Qe,Qor,Qra,Qrar,Qrel,Qril,Ril,Ror,Rus,Yra,Vad,Ve,Vhop,Vip,Vot,Za,Zal,Zee,Zo,Zor",
+    "e":"ah,al,alp,an,ap,ar,ark,da,dhik,doo,erk,gag,ghe,hark,holk,hud,ib,ik,ir,kex,kolk,kre,la,ld,lob,ma,mak,me,merk,nal,nalp,nesk,ni,nosk,nri,nuld,od,og,ra,rad,ras,re,roo,rud,trad,xas,xeb,zad,zax,ze,zen,zep,zi,zin,zo,zor",
+    "rules":"$s_$e_$15e_$10e_$5e"
+}

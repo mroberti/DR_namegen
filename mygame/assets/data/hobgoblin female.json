@@ -1,0 +1,10 @@
+
+
+{
+    "s":"Af,Bey,Cey,Dar,Dir,Es,Fet,Ha,Keth,Kolg,Kur,Malg,Mev,Ok,Pold,Rold,Salt,Tet,Tot,Turg,Ut,Zild,Zold",
+    "e":"at,d,dor,ek,em,h,har,hor,ik,im,luk,lat,let,lit,m,r,ram,rat,rim,rot,tar,uk,ung,ut",
+    "v":"a,a,a,e,e,i",
+    "A":"o,u",
+    "c":"t,k,r,m,n",
+    "rules":"$s_$e_$v_$20c,%10$s_$e_$A_$40c"
+}

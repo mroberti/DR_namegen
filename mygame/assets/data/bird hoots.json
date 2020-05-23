@@ -1,0 +1,4 @@
+{
+    "A":"hoo,hooho,hoohooo,hooroo,hoot,hru,koo-ah,koo-koo,mwah,pwah,ruru,tiroo,too-loo,toowit,tuwu,twoah,twoo,whill,whipoor,whoo,whoo-ah",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

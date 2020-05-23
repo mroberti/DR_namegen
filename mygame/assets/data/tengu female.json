@@ -1,0 +1,6 @@
+{
+    "s":"Bek,Bel,Buk,Caw,Chak,Chuk,Chuz,Gaak,Kar,Kra,Kraa,Kraak,Kaak,Kra,Krap,Kre,Oun,Pez,Pin,Pra,Pree,Pri,Pu,Qack,Qre,Qro,Qru,Rok,Tai,Tchi,Xai,Xeep",
+    "A":"Ah,Ba,E,Ju,O,Pi,Po,Qu,Ra,Ru,Ta,Xe",
+    "e":"ah,caw,cha,ch,chor,chu,ck,croa,gaak,gh,igh,ir,je,ka,kar,kee,koa,kra,kraa,kraak,kaak,la,lee,meck,mu,nan,ne,nir,pee,pu,qek,qoon,qul,quz,re,rek,rel,ta,taa,tee,toa,tiu,ugh,un,vaak,ye,yeck,yi,yoi,zack,ze,zo,zul",
+    "rules":"$s_$80e_$25e,%10$s-_$s,%10$A_$e_$15e,%4_$A-_$s_$30e"
+}

@@ -1,0 +1,5 @@
+
+{
+    "A":"heek,histh,hisvit,ikit,itch,kree,kwee,kweev,kwik,neek,neekit,risik,skee,skiv,skree,skreek,skreelk,skrit,skriv,skwee,sneek,sneetch,snik,snikit,snitch,tchee,tchirik,weesk,wisth,wreek",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

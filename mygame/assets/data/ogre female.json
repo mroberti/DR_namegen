@@ -1,0 +1,6 @@
+{
+    "A":"Argh,Barsh,Bog,Burz,Dof,Drok,Drub,Drug,Dub,Dug,Dul,Dursh,Dush,Duz,Faug,Fug,Ghakh,Ghar,Ghash,Ghol,Ghor,Ghukk,Ghul,Glub,Glud,Glug,Gluz,Gom,Grad,Grash,Grob,Grogg,Grok,Grol,Gru,Gruf,Gruk,Grul,Grum,Grumf,Grut,Gruz,Guhl,Gulv,Hai,Hrung,Hur,Hurg,Kai,Klob,Krod,Kug,Kulk,Kur,Lorg,Lug,Lukh,Lum,Lurz,Lush,Luz,Makh,Maug,Molg,Mud,Mug,Mul,Murk,Muzd,Nakh,Narg,Obb,Rolb,Rukh,Ruz,Sharg,Shruf,Shud,Shug,Shur,Shuz,Slub,Slud,Slug,Snad,Snog,Thrag,Thulk,Thurk,Trug,Ulg,Ur,Urd,Urgh,Urkh,Uz,Yug,Yur,Zud,Zug",
+    "B":"argh,barsh,bog,burz,dof,drok,drub,drug,dub,dug,dul,dursh,dush,duz,faug,fug,ghakh,ghar,ghash,ghol,ghor,ghukk,ghul,glub,glud,glug,gluz,gom,grad,grash,grob,grogg,grok,grol,gru,gruf,gruk,grul,grum,grumf,grut,gruz,guhl,gulv,hai,hrung,hur,hurg,kai,klob,krod,kug,kulk,kur,lorg,lug,lukh,lum,lurz,lush,luz,makh,maug,molg,mud,mug,mul,murk,muzd,nakh,narg,obb,rolb,rukh,ruz,sharg,shruf,shud,shug,shur,shuz,slub,slud,slug,snad,snog,thrag,thulk,thurk,trug,ulg,ur,urd,urgh,urkh,uz,yug,yur,zud,zug",
+    "p":"ah,ay,gah,ghy,y,ya",
+    "rules":"$A_$B_$10B_$p"
+}

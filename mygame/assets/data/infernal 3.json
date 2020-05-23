@@ -1,0 +1,8 @@
+
+{
+    "A":"Ach,Akk,Ash,Azt,Bahor,Bar,Bas,Brax,Charn,Dak,Hrax,Lach,Lazt,Mat,Nam,Nazt,Ralk,Rhast,Sark,Slarv,Tash,Thak,Thalur,Thalk,Vach,Vap,Dek,Ech,Fesh,Gek,Hrek,Lech,Met,Ner,Ter,Blik,Gith,Igm,Inax,Irsch,Kir,Lis,Lisk,Lith,Nilv,Nirr,Tlizit,Bor,Chon,Goch,Gor,Goth,Hoth,Khor,Kos,Loch,Lok,Loth,Moch,Moth,Noc,Och,Oth,Rolk,Roth,Sot,Soth,Vrok,Dun,Gur,Hun,Luth,Muth,Nur,Rutt,Sut,Sutt,Szut,Tur,Urt,Utuk,Uzt,Krych,Nyth,Slyth,Gaan,Xaas,Boak,Ruaak,Yalm,Haerx,Iex,Draum,Gaur,Glaur,Rauk,Saur,Duum,Nuur,Ruun",
+    "B":"ach,akk,ash,azt,bahor,bar,bas,brax,charn,dak,hrax,lach,lazt,mat,nam,nazt,ralk,rhast,sark,slarv,tash,thak,thalur,thalk,vach,vap,dek,ech,fesh,gek,hrek,lech,met,ner,ter,blik,gith,igm,inax,irsch,kir,lis,lisk,lith,nilv,nirr,tlizit,bor,chon,goch,gor,goth,hoth,khor,kos,loch,lok,loth,moch,moth,noc,och,oth,rolk,roth,sot,soth,vrok,dun,gur,hun,luth,muth,nur,rutt,sut,sutt,szut,tur,urt,utuk,uzt,krych,nyth,slyth,gaan,xaas,boak,ruaak,yalm,haerx,iex,draum,gaur,glaur,rauk,saur,duum,nuur,ruun",
+    "v":"u,u,u,o,o,i,i,a,a,e",
+    "c":"z,y,v,r,l,j",
+    "rules":"$A_$v_$c_$B,$A_$c_$v_$B,%25$A_$v_$c_$B,%25$A_$c_$v_$B"
+}

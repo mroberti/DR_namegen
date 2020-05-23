@@ -1,0 +1,5 @@
+{
+    "A":"Ahg,Baod,Beegh,Bohr,Bul,Buli,Burh,Buri,Chah,Dhak,Digri,Dum,Eghi,Ehm,Faogh,Feehm,Ghad,Ghah,Gham,Ghan,Ghat,Ghaw,Ghee,Ghish,Ghug,Giree,Gonkh,Goun,Goush,Guh,Gunri,Hah,Hani,Haogh,Hatoo,Heghi,Heh,Hoo,Houm,Hree,Ig,Kham,Khan,Khaz,Khee,Khem,Khuri,Logh,Lugh,Maoh,Meh,Mogh,Mouh,Mugh,Naoh,Naroo,Nham,Nuh,Ob,Oli,Orf,Ough,Ouh,Peh,Pogh,Pugh,Puh,Quagi,Rahoo,Rhoo,Rifoo,Ronkh,Rouk,Saom,Saori,Shehi,Shlo,Shom,Shour,Shul,Snaoh,Suhi,Suth,Teb,Thom,Toudh,Tregh,Tuhli,Ub,Urush,Ush,Vuh,Wah,Wuh,Yaum,Yauth,Yeeh,Yih,Yuh,Zham",
+    "B":"ahg,baod,beegh,bohr,bul,buli,burh,buri,chah,dhak,digri,dum,eghi,ehm,faogh,feehm,ghad,ghah,gham,ghan,ghat,ghaw,ghee,ghish,ghug,giree,gonkh,goun,goush,guh,gunri,hah,hani,haogh,hatoo,heghi,heh,hoo,houm,hree,ig,kham,khan,khaz,khee,khem,khuri,logh,lugh,maoh,meh,mogh,mouh,mugh,naoh,naroo,nham,nuh,ob,oli,orf,ough,ouh,peh,pogh,pugh,puh,quagi,rahoo,rhoo,rifoo,ronkh,rouk,saom,saori,shehi,shlo,shom,shour,shul,snaoh,suhi,suth,teb,thom,toudh,tregh,tuhli,ub,urush,ush,vuh,wah,wuh,yaum,yauth,yeeh,yih,yuh,zham",
+    "rules":"$A_$20B_$10B,%50$A-_$A_$10B"
+}

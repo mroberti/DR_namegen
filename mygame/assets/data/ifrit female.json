@@ -1,0 +1,5 @@
+{
+    "s":"A,Ci,E,Em,Fa,Fe,Fi,Fu,Ful,Ga,Ge,Gu,Ha,Hi,Hur,I,Ir,La,Le,Lu,Ma,Ni,Qi,Sa,Si,Su,U,Uq,Wil,Wu,Ze,Zu",
+    "e":"ah,dre,dri,dru,du,em,en,he,hi,hu,in,is,la,ly,lyu,lu,ma,me,mi,n,nu,qa,qeh,qhi,qri,ra,ran,rhan,rhe,rhu,ri,rlu,rlun,ry,rya,ta,the,thi,this,tin,ty,tya,tyi,tyu,twa,twi,ya,ye,yi,wirh,wu",
+    "rules":"$s_$e_$20e_$5e"
+}

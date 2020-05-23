@@ -1,0 +1,5 @@
+{
+    "A":"Ad,Blanc,Falc,Mil,Adel,Boff,Ferd,Mung,Adr,Bomb,Frob,Od,Ail,Bram,Fulb,Oth,Alb,Bung,Gam,Sab,Alm,Droc,Hald,Sam,Amb,Drog,Ham,Seg,Band,Durl,Hasc,Serl,Bard,Emm,Hod,Tob,Ben,Erd,Hug,Wan,Biff,Ern,Iv,Wig,Bild,Ever,Mark,Wyd",
+    "B":"ald,ard,ert,fast,o,o,o,o,o,old,win,wise",
+    "rules":"$A_$B"
+}

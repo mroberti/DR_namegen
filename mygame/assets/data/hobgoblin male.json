@@ -1,0 +1,5 @@
+{
+    "s":"Ak,Bek,Dor,Dur,Fet,Ha,Keth,Kolg,Kur,Malg,Mev,Ok,Pold,Rold,Salt,Tet,Tot,Turg,Ut,Zild,Zold",
+    "e":"at,har,hi,hor,la,luk,lut,ok,om,ot,ram,rat,ri,rim,rot,tar,uk,ung,ut",
+    "rules":"$s_$e"
+}

@@ -1,0 +1,5 @@
+
+{
+    "A":"hrish,lirr,liss,lith,lyau,mau,meer,mew,miah,miau,mihr,mirhl,mirr,miu,purrh,saf,sash,serr,sfee,shah,sharr,shau,shee,sheer,shim,shurr,siyth,slif,swish,syau",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

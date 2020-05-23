@@ -1,0 +1,5 @@
+
+{
+    "A":"ghagh,ghuch,glash,glup,glush,guth,lagh,lulgh,mauh,mlulgh,shluh,shubb,shug,shul,shum,shuph,slaugh,sluagh,slud,sluph,snulg,ubb,yug",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

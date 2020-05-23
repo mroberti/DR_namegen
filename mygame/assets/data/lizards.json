@@ -1,0 +1,4 @@
+{
+    "A":"ahsk,anakh,ikhsar,inkh,isith,izkur,kar,kisz,krah,krizil,lirisk,liszth,rah,rahk,rahn,rahst,rahz,rausz,salar,sar,sard,sarn,skurr,skih,slith,sliz,surt,szaur,zahsu,zar,zark,zilakh",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

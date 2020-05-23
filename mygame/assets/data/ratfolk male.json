@@ -1,0 +1,8 @@
+{
+    "s":"Ag,Am,B,Br,Cr,Dj,Dr,En,Ev,G,Gl,Gn,H,,J,Icr,Ik,It,K,Kn,Kr,Kv,N,P,Pr,R,Sc,Sk,Spl,Sr,St,T,Tin,Tr,V,Vr,Z,Zr",
+    "v":"e,ee,i,in",
+    "A":"a,an,eh,en,o",
+    "c":"c,d,g,h,k,l,m,n,q,r,s,t,v,z",
+    "p":"cit,crag,creeg,crig,dahl,den,deen,det,din,dit,eq,heek,hc,hk,hz,ik,im,iq,kan,kit,kiz,tch,kwee,kwik,kzit,meeq,meq,miq,moq,muq,mvim,neek,nig,nihn,nik,nzat,skee,skiv,skree,skreek,skrit,skriv,sneek,snik,tchee,ven,veen,vic,vin,weesk,wreek,zez,zis",
+    "rules":"$s_$v_$c,%25$s_$v_$c_$v_$c,%15$s_$A_$c,%5_$s_$A_$c_$v_$c,%30$s_$v_$p,%7_$s_$A_$p"
+}

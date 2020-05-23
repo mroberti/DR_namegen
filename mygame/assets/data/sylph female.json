@@ -1,0 +1,7 @@
+{
+    "s":"A,Ca,Ce,Ci,Cu,Da,Ey,Fa,Fe,Fi,Fu,Ga,Ge,Ha,He,Hel,Hi,Hu,Huz,I,Ja,Je,La,Li,Lu,Ma,Mi,Mu,Ni,Sa,Se,Si,Su,U,Va,Vu,Wa,Wu,Zu",
+    "e":"ad,al,am,an,ash,az,dal,dan,ded,den,dul,dun,ed,fal,fam,fil,fin,gam,gel,gin,gum,id,if,il,im,in,is,ish,iv,jid,kad,kel,kid,kim,kud,lin,mul,mun,nal,nem,nu,nun,sad,sed,sen,sh,sum,ud,ul,um,un,va,vam,ved,ven,vun,wen,win,zad,zed",
+    "A":"fi,gi,ka,ju,la,ma,mi,mu,sa,si,vi,vu,wi",
+    "v":"a,a,e,i,i,u",
+    "rules":"$s_$e_$50e_$80v,%50$s_$e_$A"
+}

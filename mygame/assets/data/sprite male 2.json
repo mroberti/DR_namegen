@@ -1,0 +1,6 @@
+
+{
+    "A":"Bris,Iphil,Opal,Cryl,Ispel,Oris,Elsi,Istle,Orif,Ember,Jat,Peri,Esk,Jost,Sarm,Feris,Jus,Sprin,Frimi,Lirra,Stith,Gan,Mali,Tansi,Glink,Mink,Tirra,Hal,Mirra,Trump,Hel,Mistle,Whis,Hist,Ninka,Zando",
+    "B":"bik,brix,frell,fret,kin,mist,mit,rix,tross,twik,win,zisk",
+    "rules":"$A_$B"
+}

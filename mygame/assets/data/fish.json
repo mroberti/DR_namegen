@@ -1,0 +1,4 @@
+{
+    "A":"bilp,blib,blip,bloolgh,blub,blup,boolp,dilp,dool,floop,ghool,gloogh,glob,glop,glub,gluup,googh,guulgh,ool,plop,polgh,poolp,quilp,quolp,sblop,shib,shup,thilp,thlup,thoop",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

@@ -1,0 +1,5 @@
+
+{
+    "A":"cheekk,chisk,chreej,eep,kishik,kreej,kwirrik,reep,thrisk,thriss",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

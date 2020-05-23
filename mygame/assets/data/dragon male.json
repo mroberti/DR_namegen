@@ -1,0 +1,6 @@
+
+{
+    "A":"Abra,Har,Phrixu,Adastra,Helio,Porphyro,Adra,Huro,Pyra,Anca,Iul,Rhada,Andra,Jalan,Rhe,Arag,Jarzem,Rhodo,Archo,Jazra,Rau,Atra,Jurga,Sar,Bar,Keruxa,Sarcu,Bara,Kralka,Sarda,Beru,Lazulo,Scarva,Bhakri,Majuri,Sidereo,Bia,Malacho,Skhia,Bra,Mar,Sulchru,Brado,Marmora,Tchalcedo,Brima,Melkar,Tchazar,Cadra,Orgra,Trocho,Chro,Ouro,Vra,Chryso,Perido,Zalar,Glau,Phoro,Zerul",
+    "B":"bazius,boros,bradax,calchax,cordax,lagon,malax,mandros,manthys,mordax,nadral,nalux,neriax,phylax,vorax,vorung,xenor,zuthrax,zzebrax,zzemal",
+    "rules":"$A_$B"
+}

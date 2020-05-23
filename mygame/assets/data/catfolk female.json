@@ -1,0 +1,9 @@
+
+{
+    "P":"A,Du,Ho,Ji,Mi,Siphe,Ti",
+    "A":"Lirr,Liss,Lith,Lyau,Mau,Meer,Mew,Miah,Miau,Mihr,Mirr,Miu,Purrh,Saf,Sash,Serr,Sfee,Shah,Sharr,Shau,Shee,Sheer,Shim,Shurr,Siyth,Slif,Swish,Syau",
+    "B":"niri,lele,lyau,mau,mew,miah,miau,mihr,mirr,miu,purrh,saf,sash,serr,sfee,shah,sharr,shau,shee,sheer,shim,shurr,siyth,slif,swish,syau",
+    "C":"lin,lyan,lyar,lah,lirr,liss,lith,meer,y,yer",
+    "v":"a,e,i",
+    "rules":"$P_$B,$P_$C_$v,$A_$B,$A_$C_$v"
+}

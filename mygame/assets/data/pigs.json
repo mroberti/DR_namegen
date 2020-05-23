@@ -1,0 +1,4 @@
+{
+    "A":",borcht,borgha,bucht,ghreeh,glutth,gris,gruh,grunkh,hirkh,hirkha,hoinh,hoinkh,hortha,hrigh,hrogh,hrugh,huerg,hurnk,huunh,hween,mucht,oighn,pachn,pharho,pohr,shoat,snorgh,soueeh,squeeh,stoink,tuskh",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

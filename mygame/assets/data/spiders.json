@@ -1,0 +1,5 @@
+
+{
+    "A":"grik,irrtt,kilss,kob,krig,krik,krip,ksob,lob,nik,sich,skik,skrik,snik,stig,spiv,stich,tchik,tigik,tik,vib,vip,vob,vrig,wib,wik,wiv,yib,yig,yob",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

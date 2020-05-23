@@ -1,0 +1,10 @@
+
+{
+    "s":"Br,Dr,Ec,Eh,Gr,Ik,Il,J,M,N,Or,Q,Qr,R,S,Tr,Uc,Ug,Um,Us,Ut,Uv,X,Y,Z",
+    "v":"a,e,i,o,u",
+    "c":"c,d,g,h,j,k,l,m,n,r,s,t,v,z",
+    "A":"o,u",
+    "B":"a,e,i",
+    "e":"c,h,l,m,n,r,t",
+    "rules":"%80$s_$v_$c_$A_$50e,%20$s_$v_$c_$B_$50e"
+}

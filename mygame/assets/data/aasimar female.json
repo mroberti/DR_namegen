@@ -1,0 +1,11 @@
+
+{
+    "A":"Adan,Asan,Jasan,Palant,Sarnat,Valmar,Adrast,Asarn,Jasarm,Palor,Solar,Valnar,Alant,Astar,Javral,Raman,Talan,Valnor,Amad,Atar,Kalad,Ranal,Talar,Valon,Aman,Atlan,Kalar,Ranar,Talas,Valor,Amar,Avar,Kalas,Rasan,Talon,Vanar,Amars,Avlant,Kalast,Ravan,Taran,Varal,Amart,Avral,Kasal,Samar,Taval,Varam,Ansam,Jalan,Katarn,Saran,Valant,Varan,Arad,Jalkar,Kaval,Sarat,Valar,Varat,Aram,Jaran,Klaron,Sardan,Valdor,Vardar,Aran,Jasal,Palad,Sardar,Valkar,Voltar",
+    "B":"adan,-asan,-jasan,-palant,-sarnat,-valmar,-adrast,-asarn,-jasarm,-palor,-solar,-valnar,-alant,-astar,-javral,-raman,-talan,-valnor,-amad,-atar,-kalad,-ranal,-talar,-valon,-aman,-atlan,-kalar,-ranar,-talas,-valor,-amar,-avar,-kalas,-rasan,-talon,-vanar,-amars,-avlant,-kalast,-ravan,-taran,-varal,-amart,-avral,-kasal,-samar,-taval,-varam,-ansam,-jalan,-katarn,-saran,-valant,-varan,-arad,-jalkar,-kaval,-sarat,-valar,-varat,-aram,-jaran,-klaron,-sardan,-valdor,-vardar,-aran,-jasal,-palad,-sardar,-valkar,-voltar",
+    "P":"Ar,Sar,Tar,Var,Jal,Kal,Pal,Ral,Tal",
+    "p":"el,en,er,es,et,eth,eth,eth,enth,eleth,ereth,eseth",
+    "C":"Ar,Da,Drin,Ime,Ma,Ni,Ni,On,Rhi,Val",
+    "D":"ken,sinoe,vina,ma,sah,sozi,jena,ramou,drea,alla,tyra",
+    "E":"Arken,Arsinoe,Davina,Drinma,Imesah,Masozi,Nijena,Niramour,Ondrea,Rhialla,Valtyra",
+    "rules":"$A_$p,%10$P_$B,%50$C_$D,%50$P_$D,%50$C_$p,%25$E"
+}

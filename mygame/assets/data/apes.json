@@ -1,0 +1,4 @@
+{
+    "A":"bah,beh,boh,bou,buhn,dah,deh,dih,dou,duhm,eehm,engah,fou,gah,goh,gohm,guhn,gwah,hahn,hou,hwah,huh,jou,juh,kah,keh,keng,kihm,koh,kong,kreeh,lah,leh,mah,moh,mohm,muh,nah,nang,neh,nih,noh,nou,nyoh,ogh,ououh,roh,sah,sahm,soh,tah,tahm,toh,ugh,ungoh,wah,wuhn,yah,yoh,zeh,zih",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

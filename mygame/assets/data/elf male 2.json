@@ -1,0 +1,9 @@
+{
+	"A":"An,Ar,Cal,Car,Cel,Cir,Clar,El,Elb,Er,Erl,Est,Far,Fin,Gal,Gan,Gar,Gel,Gil,Ilm",
+	"B":"im,in,ir,ist,lar,lir,lor,mar,mel,mer,mir,nim,nin,nir,ral,ran,rel,ril,rin,rim",
+	"C":"Aeg,Ael,Aer,Aes,Aeth,Bel,Ber,Cael,Caer,Cris,Ear,Elth,Eol,Faer,Fean,Find,Ith,Laeg,Lend,Lind",
+	"D":"lith,maeg,mind,mith,nith,rael,rind,saer,sar,seld,ser,sil,silm,sind,thael,thaer,thal,thel,ther,thir",
+	"E":"ad,al,am,an,ar,as,eb,ed,el,em,en,er,es,ev,il,in,ir,ol,thal,thon",
+	"F":"ad,dan,del,dil,dir,fal,ion,ion,lad,las,lin,nar,or,orn,ras,rior,rod,rond,ros,thir",
+	"rules":"$A_$B_$E_$F,$C_$D_$E_$F,%25$A_$D_$E_$F,%25$C_$B_$E_$F"
+}

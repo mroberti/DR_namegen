@@ -1,0 +1,5 @@
+
+{
+    "A":"ahou,auw,bow,garoo,growl,gruff,gruwl,gurr,haroou,howgh,hraugh,hrahou,hroou,hruff,hrusk,kaiyah,kurr,laroou,lhaoouh,mutt,roagh,rriur,ruff,turr,tyke,whelp,yahoou,yaup,yelp,yiee,yike,yipe,yowh,yurr",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

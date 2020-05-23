@@ -1,0 +1,5 @@
+{
+	"s":"A,Aa,Ad,As,Az,De,E,Es,Fi,Ga,Gal,Gar,Gur,Har,I,Id,Li,Lul,Ma,Mis,Mo,Mod,Ne,No,Nos,O,Par,Po,Ra,Ri,Rol,Sa,Sad,Siz,Sok,Tar,Tol,U,Va,Vas,Vis,Vo,Za,Zi",
+	"e":"a,ag,ak,as,az,du,e,eh,ga,gar,gees,gra,gru,gu,hoo,il,in,ka,kas,ke,ko,koo,kri,kro,kru,krun,ku,kuk,la,le,lem,li,lis,non,or,os,ra,ral,re,rek,ri,ro,ros,se,si,sis,so,soo,sra,sro,sru,sus,tro,zok,zra,zu,",
+	"rules":"$s_$e_$15e_$10e_$5e"
+}

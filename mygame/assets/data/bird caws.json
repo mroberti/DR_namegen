@@ -1,0 +1,4 @@
+{
+    "A":"kra,kraak,kaak,caw,kraa,vaak,croa,kar,ah,gaak",
+    "rules":"$A_$A,%30$A_$A_$A"
+}

@@ -1,0 +1,7 @@
+{
+    "A":"Alu,Alz,Avu,Azaz,Baph,Baz,Cha,Fraz,Garl,Garu,Gla,Hra,Mal,Nahu,Nal,Nasu,Paz,Raz,Tha,Thalu,Bre,Dre,Gel,Gle,Gre,Hez,Rez,Rezu,Tze,Gzi,Hriz,Hzi,Idrau,Itha,Ixu,Lilu,Riz,Yil,Dromu,Gro,Lol,Moz,Olth,Oxu,Sco,Tho,Bu,Bul,Buz,Chru,Dru,Ghu,Gura,Guz,Hruz,Huz,Kul,Lurhz,Muz,Ru,Shu,Ssu,Szul,Thu,Ulchru,Utu,Vul,Zu,Zul,Baal,Ghaa,Kraa,Phaal,Raal,Saa,Bial,Oazo,Soaz,Ruaz,Gya,Yaa,Bael,Nee,Ziel,Yee,Aiaz,Shai,Reoz,Duoi,Drau,Ghau,Glau,Mau,Sau,Tzau,Iuz,Juu,Rhuu,Vuul,Zuu",
+    "B":"alu,alz,avu,azaz,baph,baz,cha,fraz,garl,garu,gla,hra,mal,nahu,nal,nasu,paz,raz,tha,thalu,bre,dre,gel,gle,gre,hez,rez,rezu,tze,gzi,hriz,hzi,idrau,itha,ixu,lilu,riz,yil,dromu,gro,lol,moz,olth,oxu,sco,tho,bu,bul,buz,chru,dru,ghu,gura,guz,hruz,huz,kul,lurhz,muz,ru,shu,ssu,szul,thu,ulchru,utu,vul,zu,zul,baal,ghaa,kraa,phaal,raal,saa,bial,oazo,soaz,ruaz,gya,yaa,bael,nee,ziel,yee,aiaz,shai,reoz,duoi,drau,ghau,glau,mau,sau,tzau,iuz,juu,rhuu,vuul,zuu",
+    "v":"u,u,u,o,o,i,i,a,a,e",
+    "c":"z,y,v,r,l,j",
+    "rules":"$A_$v_$c_$B,$A_$c_$v_$B,%25$A_$v_$c_$B,%25$A_$c_$v_$B"
+}
